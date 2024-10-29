@@ -9,4 +9,4 @@ Additionally, Media Sync features a conversational collaboration and sponsor dis
 In short, Media Sync revolutionizes multimedia management by combining seamless posting, AI-driven analytics, and conversational collaboration into one powerful platform.
 
 
-Demonstrative link: https://youtu.be/WCwJYGYjtaE
+# Demonstrative link of Demo: https://youtu.be/WCwJYGYjtaE
