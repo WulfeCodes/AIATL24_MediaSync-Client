@@ -7,3 +7,6 @@ We’ve seamlessly integrated Twitter, Meta Threads, and Reddit, enabling you to
 Additionally, Media Sync features a conversational collaboration and sponsor discovery tool. This unique feature lets creators discuss their ongoing projects, set expectations, define requirements, and establish budgets—all through natural conversation. The tool connects creators with potential collaborators and sponsors, making it easier to secure partnerships and grow their projects.
 
 In short, Media Sync revolutionizes multimedia management by combining seamless posting, AI-driven analytics, and conversational collaboration into one powerful platform.
+
+
+Demonstrative link: https://youtu.be/WCwJYGYjtaE
